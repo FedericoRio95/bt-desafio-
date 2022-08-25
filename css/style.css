@@ -1,0 +1,27 @@
+nav{
+    min-height: 15vh;
+    
+}
+.main-index{
+    display: flex;
+    min-height: 90vh;
+    background-color: brown;
+    flex-direction: column;    
+    align-items: center;
+    
+}
+h1{
+    padding: 15px;
+    margin: 10px;
+}
+.divisor{
+    margin-top: 100px;  
+
+}
+.footer ul{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: underline;    
+    list-style: none;
+    gap: 20px;    
+}
